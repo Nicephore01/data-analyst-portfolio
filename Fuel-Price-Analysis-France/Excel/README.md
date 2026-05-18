@@ -40,3 +40,17 @@ This preparation step ensured that the datasets were structured and ready for Po
 ## Tool Used
 
 - Microsoft Excel
+
+---
+
+## Excel Workflow Preview
+
+### Dataset Preparation
+
+![Dataset Preparation](./excel-data-preparation.png)
+
+---
+
+### Column Cleaning
+
+![Column Cleaning](./excel-columns-cleaning.png)
