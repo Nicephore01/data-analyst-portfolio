@@ -106,3 +106,11 @@ This supports the idea that fuel price increases may be structural rather than t
 ### SP95 vs Diesel Comparison
 
 ![SP95 vs Diesel](PowerBI/sp95-vs-diesel.png)
+
+---
+
+## Project Structure
+
+- [Excel Preparation](./Excel)
+- [PostgreSQL Workflow](./PostgreSQL)
+- [Power BI Dashboard](./PowerBI)
