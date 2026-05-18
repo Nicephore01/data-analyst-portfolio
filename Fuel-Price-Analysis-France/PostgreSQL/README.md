@@ -52,3 +52,36 @@ This step transformed raw datasets into reliable analytical tables optimized for
 
 - PostgreSQL
 - pgAdmin
+
+
+---
+
+## SQL Workflow Preview
+
+### Data Cleaning
+
+![Data Cleaning](./pgAdmin-postgre-alter-table.png)
+
+---
+
+### Consolidated Global Table
+
+![Global Table](./table-global-consolidated.png)
+
+---
+
+### SP95 vs Diesel Gap Analysis
+
+![SP95 vs Diesel Gap](./ecart-sp95-vs-diesel.png)
+
+---
+
+### Top 5 Most Expensive Diesel Regions
+
+![Diesel Top Regions](./diesel-prix-moyen-top5.png)
+
+---
+
+### Top 5 Most Expensive SP95 Regions
+
+![SP95 Top Regions](./prix-moyen-sp95-plus-couteux-par-region-TOP5.png)
