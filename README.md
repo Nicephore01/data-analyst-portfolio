@@ -111,6 +111,6 @@ This supports the idea that fuel price increases may be structural rather than t
 
 ## Project Structure
 
-- [Excel Preparation](./Excel)
-- [PostgreSQL Workflow](./PostgreSQL)
-- [Power BI Dashboard](./PowerBI)
+- [Excel Preparation](./Fuel-Price-Analysis-France/Excel)
+- [PostgreSQL Workflow](./Fuel-Price-Analysis-France/PostgreSQL)
+- [Power BI Dashboard](./Fuel-Price-Analysis-France/PowerBI)
