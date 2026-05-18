@@ -93,16 +93,16 @@ This supports the idea that fuel price increases may be structural rather than t
 
 ### Dashboard Overview
 
-![Dashboard Overview](./PowerBI/fuel-dashboard-overview.png)
+![Dashboard Overview](PowerBI/fuel-dashboard-overview.png)
 
 ---
 
 ### Fuel Price Evolution
 
-![Fuel Price Evolution](./fuel-price-evolution.png)
+![Fuel Price Evolution](PowerBI/fuel-price-evolution.png)
 
 ---
 
 ### SP95 vs Diesel Comparison
 
-![SP95 vs Diesel](./sp95-vs-diesel.png)
+![SP95 vs Diesel](PowerBI/sp95-vs-diesel.png)
