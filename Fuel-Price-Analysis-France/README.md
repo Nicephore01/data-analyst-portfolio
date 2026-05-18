@@ -91,6 +91,12 @@ This supports the idea that fuel price increases may be structural rather than t
 ---
 ## Dashboard Preview
 
+### Dashboard Overview
+
+![Dashboard Overview](Images/fuel-dashboard-overview.png)
+
+---
+
 ### Fuel Price Evolution
 
 ![Fuel Price Evolution](Images/fuel-price-evolution.png)
