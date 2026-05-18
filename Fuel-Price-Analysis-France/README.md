@@ -93,7 +93,7 @@ This supports the idea that fuel price increases may be structural rather than t
 
 ### Dashboard Overview
 
-![Dashboard Overview](./fuel-dashboard-overview.png)
+![Dashboard Overview](./PowerBI/fuel-dashboard-overview.png)
 
 ---
 
