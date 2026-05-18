@@ -114,3 +114,12 @@ This supports the idea that fuel price increases may be structural rather than t
 - [Excel Preparation](./Fuel-Price-Analysis-France/Excel)
 - [PostgreSQL Workflow](./Fuel-Price-Analysis-France/PostgreSQL)
 - [Power BI Dashboard](./Fuel-Price-Analysis-France/PowerBI)
+
+---
+
+## Contact
+
+If you would like to discuss this project or data analyst opportunities:
+
+- Email: nicephre.akoueàgmail.com
+- LinkedIn: www.linkedin.com/in/nicephore-akoue
