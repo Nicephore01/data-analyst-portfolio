@@ -87,3 +87,16 @@ This supports the idea that fuel price increases may be structural rather than t
 
 - Phase 1: Completed 
 - Phase 2 (Regional Mapping): In Progress 
+
+---
+## Dashboard Preview
+
+### Fuel Price Evolution
+
+![Fuel Price Evolution](Images/fuel-price-evolution.png)
+
+---
+
+### SP95 vs Diesel Comparison
+
+![SP95 vs Diesel](Images/sp95-vs-diesel.png)
