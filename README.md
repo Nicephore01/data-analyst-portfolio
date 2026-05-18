@@ -121,5 +121,5 @@ This supports the idea that fuel price increases may be structural rather than t
 
 If you would like to discuss this project or data analyst opportunities:
 
-- Email: nicephre.akoueàgmail.com
+- Email: nicephre.akoue@gmail.com
 - LinkedIn: www.linkedin.com/in/nicephore-akoue
